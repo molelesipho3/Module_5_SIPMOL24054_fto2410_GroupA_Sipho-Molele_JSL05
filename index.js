@@ -62,7 +62,3 @@ document.addEventListener('DOMContentLoaded', () => {
     const playlists = generatePlaylist(guardians, songs);
     displayPlaylists(playlists);
 });
-
-
-// Call generatePlaylist and display the playlists for each Guardian
-
